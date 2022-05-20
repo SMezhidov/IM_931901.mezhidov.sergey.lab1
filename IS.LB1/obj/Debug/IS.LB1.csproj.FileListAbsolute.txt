@@ -1,0 +1,10 @@
+C:\Users\New\source\repos\IS.LB1\IS.LB1\bin\Debug\IS.LB1.exe.config
+C:\Users\New\source\repos\IS.LB1\IS.LB1\bin\Debug\IS.LB1.exe
+C:\Users\New\source\repos\IS.LB1\IS.LB1\bin\Debug\IS.LB1.pdb
+C:\Users\New\source\repos\IS.LB1\IS.LB1\obj\Debug\IS.LB1.csprojAssemblyReference.cache
+C:\Users\New\source\repos\IS.LB1\IS.LB1\obj\Debug\IS.LB1.Form1.resources
+C:\Users\New\source\repos\IS.LB1\IS.LB1\obj\Debug\IS.LB1.Properties.Resources.resources
+C:\Users\New\source\repos\IS.LB1\IS.LB1\obj\Debug\IS.LB1.csproj.GenerateResource.cache
+C:\Users\New\source\repos\IS.LB1\IS.LB1\obj\Debug\IS.LB1.csproj.CoreCompileInputs.cache
+C:\Users\New\source\repos\IS.LB1\IS.LB1\obj\Debug\IS.LB1.exe
+C:\Users\New\source\repos\IS.LB1\IS.LB1\obj\Debug\IS.LB1.pdb
